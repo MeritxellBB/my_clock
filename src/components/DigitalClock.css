@@ -1,0 +1,9 @@
+.digital-clock {
+    background-color: rgba(64, 64, 64, 0.740);
+    width: 200px;
+    border-radius: 16px;
+    margin: 12px;
+    margin-top: 50px;
+    padding: 15px;
+    
+  }

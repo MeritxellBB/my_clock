@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+.stopwatch {
+    width: 150px;
+    border-radius: 16px;
+    margin: 16px;
+    padding: 12px;
+    background-color: rgba(92, 92, 92, 0.680);
+  }
+  
+  button {
+    border: 1px solid black;
+    font-size: 15px;
+    font-family: 'Roboto Slab', serif;
+    margin: 4px;
+    background-color: #B43642;
+  }
